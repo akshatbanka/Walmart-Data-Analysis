@@ -54,31 +54,31 @@ This project explores and analyzes Walmart's business data sourced from Kaggle. 
 
 ## Business Problems Addressed  
 1. Analyze Payment Methods and Sales
-● Purpose: This helps understand customer preferences for payment methods, aiding in
+- Purpose: This helps understand customer preferences for payment methods, aiding in
 payment optimization strategies.
 2. Identify the Highest-Rated Category in Each Branch
-● Purpose: This allows Walmart to recognize and promote popular categories in specific
+- Purpose: This allows Walmart to recognize and promote popular categories in specific
 branches, enhancing customer satisfaction and branch-specific marketing.
 3. Determine the Busiest Day for Each Branch
-● Purpose: This insight helps in optimizing staffing and inventory management to
+- Purpose: This insight helps in optimizing staffing and inventory management to
 accommodate peak days.
 4. Calculate Total Quantity Sold by Payment Method
-● Purpose: This helps Walmart track sales volume by payment type, providing insights
+- Purpose: This helps Walmart track sales volume by payment type, providing insights
 into customer purchasing habits.
 5. Analyze Category Ratings by City
-● Purpose: This data can guide city-level promotions, allowing Walmart to address
+- Purpose: This data can guide city-level promotions, allowing Walmart to address
 regional preferences and improve customer experiences.
 6. Calculate Total Profit by Category
-● Purpose: Identifying high-profit categories helps focus efforts on expanding these
+- Purpose: Identifying high-profit categories helps focus efforts on expanding these
 products or managing pricing strategies effectively.
 7. Determine the Most Common Payment Method per Branch
-● Purpose: This information aids in understanding branch-specific payment preferences,
+- Purpose: This information aids in understanding branch-specific payment preferences,
 potentially allowing branches to streamline their payment processing systems.
 8. Analyze Sales Shifts Throughout the Day
-● Purpose: This insight helps in managing staff shifts and stock replenishment schedules,
+- Purpose: This insight helps in managing staff shifts and stock replenishment schedules,
 especially during high-sales periods.
 9. Identify Branches with Highest Revenue Decline Year-Over-Year
-● Purpose: Detecting branches with declining revenue is crucial for understanding
+- Purpose: Detecting branches with declining revenue is crucial for understanding
 possible local issues and creating strategies to boost sales or mitigate losses.
 
 ---
