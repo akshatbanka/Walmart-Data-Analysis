@@ -33,25 +33,6 @@ This project explores and analyzes Walmart's business data sourced from Kaggle. 
 
 ---
 
-## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/walmart-data-analytics.git
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Fetch the dataset via Kaggle API:  
-   ```bash
-   kaggle datasets download -d <dataset-name>
-   ```
-4. Run the Python script to clean and transform the data.  
-5. Load the transformed data into MySQL using the provided scripts.  
-6. Use the SQL queries to solve business problems or customize them as needed.
-
----
-
 ## Business Problems Addressed  
 1. Analyze Payment Methods and Sales
 - Purpose: This helps understand customer preferences for payment methods, aiding in
